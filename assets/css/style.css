@@ -1,0 +1,36 @@
+#buttonList {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: lightgrey;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#divImage {
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: lightgrey;
+	padding: 10px;
+}
+
+.animalButton {
+	width: 143px;
+	margin: 5px;
+}
+
+.picture {
+	display: inline-block;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: lightgrey;
+	margin: 0 5px 5px 5px;
+}
+
+img {
+	height: 210px;
+	width: 210px;
+	padding: 0 10px 10px 10px;
+}
